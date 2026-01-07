@@ -1,0 +1,16 @@
+nav ul {
+    display: flex;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: lightskyblue;
+}
